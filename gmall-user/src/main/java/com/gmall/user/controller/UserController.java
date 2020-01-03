@@ -1,7 +1,7 @@
 package com.gmall.user.controller;
 
 import com.gmall.bean.UmsMemberReceiveAddress;
-import com.gmall.user.service.UserService;
+import com.gmall.service.UserService;
 import com.gmall.bean.UmsMember;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
